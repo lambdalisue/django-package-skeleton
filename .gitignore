@@ -1,0 +1,10 @@
+*.py[co]
+*.egg
+*.egg-info/
+*.db
+*.swp
+~*
+build/
+dist/
+docs/_build/
+
