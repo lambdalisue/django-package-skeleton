@@ -25,7 +25,6 @@ __AUTHOR__ = "lambdalisue (lambdalisue@hashnote.net)"
 __VERSION__ = "0.1.0"
 from django.db import models
 from django.contrib.auth.models import User
-from django.contrib.contenttypes import generic
 from django.utils.text import ugettext_lazy as _
 
 

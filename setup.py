@@ -7,7 +7,6 @@
 from setuptools import setup
 from setuptools import find_packages
 from packageutils.version import get_git_version
-from packageutils.release import ReleaseCommand
 
 version = get_git_version()
 
